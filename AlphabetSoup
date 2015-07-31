@@ -1,0 +1,8 @@
+def AlphabetSoup(str)
+  
+  b=str.split(//).to_a.sort.join
+  
+  
+  return b 
+         
+end
